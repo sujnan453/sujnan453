@@ -46,8 +46,7 @@ I'm a dedicated Data Analyst with a strong passion for transforming raw data int
 ### 📬 How to Reach Me
 
 - 📧 **Email**: [sujnan453@gmail.com](mailto:sujnan453@gmail.com)
-- 🌐 **Portfolio**: [sujnan453.github.io](https://sujnan453.github.io)
-- 💼 **LinkedIn**: [linkedin.com/in/sujnan](https://linkedin.com/in/sujnan)
+- 💼 **LinkedIn**: [linkedin.com/in/sujnan](www.linkedin.com/in/sujnan-acharya-6b4059327)
 
 ### ⚡ Fun Facts
 
