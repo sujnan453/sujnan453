@@ -12,7 +12,7 @@
 
 ### 📊 About Me
 
-I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-world business problems. I love uncovering patterns in data and helping organizations make informed decisions.
+I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-world problems and drive business growth.
 
 **Profile views**: ![Profile views](https://komarev.com/ghpvc/?username=sujnan453)
 
@@ -46,7 +46,7 @@ I'm a dedicated Data Analyst with a strong passion for transforming raw data int
 ### 📬 How to Reach Me
 
 - 📧 **Email**: [sujnan453@gmail.com](mailto:sujnan453@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/sujnan](www.linkedin.com/in/sujnan-acharya-6b4059327)
+- 💼 **LinkedIn**: [linkedin.com/in/sujnan-acharya](https://www.linkedin.com/in/sujnan-acharya-6b4059327)
 
 ### ⚡ Fun Facts
 
@@ -108,7 +108,7 @@ I'm a dedicated Data Analyst with a strong passion for transforming raw data int
 <div align="center">
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sujnan)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sujnan)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sujnan-acharya-6b4059327)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sujnan453@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sujnan453)
 
