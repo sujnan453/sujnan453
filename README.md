@@ -4,40 +4,44 @@
 
 ## Hi 👋, I'm Sujnan
 
-*A passionate developer and tech enthusiast from India*
+*A passionate Data Analyst & Data-Driven Decision Maker from India*
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 📊 About Me
 
-I'm a dedicated developer with a strong passion for building elegant solutions and learning cutting-edge technologies. I love working on projects that solve real-world problems and contributing to the developer community.
+I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-world business problems. I love uncovering patterns in data and helping organizations make informed decisions.
 
 **Profile views**: ![Profile views](https://komarev.com/ghpvc/?username=sujnan453)
 
 ### 🌱 Currently Learning
 
-- 🎯 Advanced Software Architecture & System Design
-- ☁️ Cloud Technologies (AWS, Docker, Kubernetes)
-- 🔧 Full-Stack Development with Modern Frameworks
-- 🤖 Machine Learning & Data Science Fundamentals
+- 📈 Advanced Data Analytics & Statistical Analysis
+- 🔍 Data Mining & Predictive Modeling
+- 📊 Business Intelligence & Data Visualization Tools
+- 🤖 Machine Learning for Data Analysis
+- ☁️ Big Data Technologies (Apache Spark, Hadoop)
 
 ### 💡 What I Do
 
-- 🚀 Build scalable and efficient applications
-- 🔍 Write clean, maintainable, and well-documented code
-- 🧪 Practice test-driven development
-- 📊 Solve complex algorithmic challenges
-- 🌐 Contribute to open-source projects
+- 📉 Analyze complex datasets to extract meaningful insights
+- 📊 Create compelling data visualizations and dashboards
+- 🔍 Identify trends, patterns, and anomalies in data
+- 📋 Build data pipelines and automate data workflows
+- 💼 Provide data-driven recommendations for business optimization
+- 🗂️ Clean, transform, and validate data for accuracy
 
 ### 💬 Ask Me About
 
-- Software Development & Best Practices
-- Web Development & RESTful APIs
-- Database Design & Optimization
-- Problem-Solving Strategies & Algorithms
-- Tech Career Growth & Learning Resources
+- Data Analysis & Statistical Methods
+- SQL & Database Optimization
+- Data Visualization & Dashboard Design
+- Funnel Analysis & User Behavior Insights
+- Business Metrics & KPI Tracking
+- Exploratory Data Analysis (EDA)
+- Data-Driven Decision Making
 
 ### 📬 How to Reach Me
 
@@ -47,10 +51,10 @@ I'm a dedicated developer with a strong passion for building elegant solutions a
 
 ### ⚡ Fun Facts
 
-- ⚡ I love debugging code like solving puzzles - each error is a mystery to crack!
-- ☕ Coffee and code is my favorite combination
-- 🎓 Lifelong learner always exploring new technologies
-- 🤝 Open to collaborations and discussing innovative ideas
+- 📊 I love exploring datasets like solving detective mysteries - every dataset tells a story!
+- ☕ Coffee and data queries = my favorite combination
+- 🎓 Passionate about turning numbers into narratives
+- 🤝 Open to collaborating on data projects and sharing insights
 
 ---
 
@@ -59,19 +63,36 @@ I'm a dedicated developer with a strong passion for building elegant solutions a
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Data Analysis Expertise
+
+<div align="center">
+
+| Skill Area | Tools & Technologies |
+|---|---|
+| **Data Manipulation** | Python, Pandas, NumPy, SQL |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Business Intelligence** | Power BI, Tableau, Google Analytics |
+| **Analysis** | Statistical Analysis, A/B Testing, Cohort Analysis |
+| **Version Control** | Git, GitHub |
+
+</div>
+
+---
+
+### 📈 GitHub Statistics
 
 <div align="center">
 
@@ -100,6 +121,6 @@ I'm a dedicated developer with a strong passion for building elegant solutions a
 
 ### Made with ❤️ by Sujnan
 
-**Happy Coding!** 🚀
+**Turning Data into Insights!** 📊
 
 </div>
