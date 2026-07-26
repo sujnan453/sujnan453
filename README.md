@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 ## Hi 👋, I'm Sujnan
@@ -12,9 +10,9 @@
 
 ### 📊 About Me
 
-I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-world problems and drive business growth.
+I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-world problems through data-driven decisions.
 
-**Profile views**: ![Profile views](https://komarev.com/ghpvc/username=sujnan453)
+**Profile views**: [![Profile views](https://komarev.com/ghpvc/?username=sujnan453)](https://github.com/sujnan453)
 
 ### 🌱 Currently Learning
 
