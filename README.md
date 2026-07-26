@@ -14,7 +14,7 @@
 
 I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-world problems and drive business growth.
 
-**Profile views**: ![Profile views](https://komarev.com/ghpvc/?username=sujnan453)
+**Profile views**: ![Profile views](https://komarev.com/ghpvc/style=flat?username=sujnan453)
 
 ### 🌱 Currently Learning
 
