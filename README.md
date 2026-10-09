@@ -2,44 +2,45 @@
 
 ## Hi 👋, I'm Sujnan
 
-*A passionate Data Analyst & Data-Driven Decision Maker from India*
+*A passionate Frontend Developer, Backend Developer, and UI/UX Enthusiast from India*
 
 </div>
 
 ---
 
-### 📊 About Me
+### 🌐 About Me
 
-I'm a dedicated Data Analyst with a strong passion for transforming raw data into actionable insights. I specialize in data analysis, visualization, and using data-driven approaches to solve real-worl[...]
+I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, developing scalable backend systems, and turning ideas into products that feel smooth, intuitive, and impactful.
 
- [![Profile views](https://komarev.com/ghpvc/?username=sujnan453&style=for-the-badge&color=blueviolet)](https://github.com/sujnan453)
+[![Profile views](https://komarev.com/ghpvc/?username=sujnan453&style=for-the-badge&color=blueviolet)](https://github.com/sujnan453)
 
 ### 🌱 Currently Learning
 
-- 📈 Advanced Data Analytics & Statistical Analysis
-- 🔍 Data Mining & Predictive Modeling
-- 📊 Business Intelligence & Data Visualization Tools
-- 🤖 Machine Learning for Data Analysis
-- ☁️ Big Data Technologies (Apache Spark, Hadoop)
+- ⚛️ Advanced React & Frontend Architecture
+- 🚀 Backend Development with Node.js & Express
+- 🎨 UI/UX Design Principles & Wireframing
+- 💻 RESTful APIs & Authentication Systems
+- 🧩 Full-Stack Product Development
+- ⚡ Performance Optimization & Responsive Design
 
 ### 💡 What I Do
 
-- 📉 Analyze complex datasets to extract meaningful insights
-- 📊 Create compelling data visualizations and dashboards
-- 🔍 Identify trends, patterns, and anomalies in data
-- 📋 Build data pipelines and automate data workflows
-- 💼 Provide data-driven recommendations for business optimization
-- 🗂️ Clean, transform, and validate data for accuracy
+- 🎨 Design elegant, responsive, and user-centric interfaces
+- 💻 Build interactive frontend applications with modern tools
+- 🔧 Develop robust backend services and APIs
+- 🧠 Translate product requirements into intuitive experiences
+- 🛠️ Work across the full stack from idea to deployment
+- 🤝 Collaborate on projects that blend design, code, and usability
 
 ### 💬 Ask Me About
 
-- Data Analysis & Statistical Methods
-- SQL & Database Optimization
-- Data Visualization & Dashboard Design
-- Funnel Analysis & User Behavior Insights
-- Business Metrics & KPI Tracking
-- Exploratory Data Analysis (EDA)
-- Data-Driven Decision Making
+- Frontend Development & UI Implementation
+- Backend Development & API Design
+- JavaScript / TypeScript / React
+- Tailwind CSS / CSS Architecture / Design Systems
+- UI/UX Thinking, Wireframes, and Prototyping
+- Full-Stack Product Development
+- Database Design & Server Logic
 
 ### 📬 How to Reach Me
 
@@ -48,10 +49,10 @@ I'm a dedicated Data Analyst with a strong passion for transforming raw data int
 
 ### ⚡ Fun Facts
 
-- 📊 I love exploring datasets like solving detective mysteries - every dataset tells a story!
-- ☕ Coffee and data queries = my favorite combination
-- 🎓 Passionate about turning numbers into narratives
-- 🤝 Open to collaborating on data projects and sharing insights
+- 🎨 I enjoy turning complex ideas into simple, beautiful interfaces
+- ☕ Coffee + code + design thinking is my perfect workflow
+- 🧩 I love building products that are both functional and visually engaging
+- 🤝 Open to collaborating on frontend, backend, and UI/UX-driven projects
 
 ---
 
@@ -59,30 +60,32 @@ I'm a dedicated Data Analyst with a strong passion for transforming raw data int
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 Data Analysis Expertise
+### 🧩 Development Expertise
 
 <div align="center">
 
 | Skill Area | Tools & Technologies |
 |---|---|
-| **Data Manipulation** | Python, Pandas, NumPy, SQL |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Business Intelligence** | Power BI, Tableau, Google Analytics |
-| **Analysis** | Statistical Analysis, A/B Testing, Cohort Analysis |
+| **Frontend** | HTML, CSS, JavaScript, React, Tailwind, Responsive Design |
+| **Backend** | Node.js, Express, REST APIs, Authentication, Server Logic |
+| **UI/UX** | Figma, Wireframing, Prototyping, Design Systems, User Flows |
+| **Databases** | MongoDB, SQL, Data Modeling |
+| **Performance** | Optimization, Debugging, Code Splitting, Clean Architecture |
 | **Version Control** | Git, GitHub |
 
 </div>
@@ -118,6 +121,6 @@ I'm a dedicated Data Analyst with a strong passion for transforming raw data int
 
 ### Made with ❤️ by Sujnan
 
-**Turning Data into Insights!** 📊
+**Building better experiences through code and design!** 🎨💻
 
 </div>
