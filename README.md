@@ -4,7 +4,7 @@
 
 *A passionate Frontend Developer and UI/UX Enthusiast from India*
 
-<img src="https://komarev.com/ghpvc/?username=sujnan453&style=flat-square" alt="Profile views" />
+
 
 </div>
 
