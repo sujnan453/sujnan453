@@ -10,9 +10,9 @@
 
 ### 🌐 About Me
 
-I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas into polished products.
+I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas into engaging products.
 
-[![Profile views](https://komarev.com/ghpvc/?username=sujnan453&style=for-the-badge&color=blueviolet)](https://github.com/sujnan453)
+[![Profile views](https://komarev.com/ghpvc/?username=sujnan453&label=Profile+Views&style=for-the-badge&color=blueviolet)](https://github.com/sujnan453)
 
 ### 🌱 Currently Learning
 
