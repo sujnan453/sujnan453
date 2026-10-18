@@ -3,16 +3,14 @@
 ## Hi 👋, I'm Sujnan
 
 *A passionate Frontend Developer and UI/UX Enthusiast from India*
-![Profile Views](https://visitcount.itsvg.in/api?id=sujnan453&icon=5&color=6)
+[![Profile Views](https://komarev.com/ghpvc/?username=sujnan453&label=Profile%20views&color=brightgreen)](https://github.com/sujnan453)
 </div>
 
 ---
 
 ### 🌐 About Me
 
-I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas into engaging products.
-
-
+I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas into engaging products that balance aesthetics and usability.
 
 ### 🌱 Currently Learning
 
