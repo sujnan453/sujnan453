@@ -3,7 +3,7 @@
 ## Hi 👋, I'm Sujnan
 
 *A passionate Frontend Developer and UI/UX Enthusiast from India*
-![Profile Views](https://komarev.com/ghpvc/?username=sujnan453)
+![Profile Views](https://visitcount.itsvg.in/api?id=sujnan453&icon=5&color=6)
 </div>
 
 ---
