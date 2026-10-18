@@ -12,7 +12,7 @@
 
 ### 🌐 About Me
 
-I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas in[...]
+I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas into polished digital products.
 
 ### 🌱 Currently Learning
 
