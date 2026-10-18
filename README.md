@@ -5,7 +5,7 @@
 *A passionate Frontend Developer and UI/UX Enthusiast from India*
 
 </div>
-
+[![Profile views](https://komarev.com/ghpvc/?username=sujnan453&label=Profile+Views&style=for-the-badge&color=blueviolet)](https://github.com/sujnan453)
 ---
 
 ### 🌐 About Me
