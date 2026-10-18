@@ -4,13 +4,15 @@
 
 *A passionate Frontend Developer and UI/UX Enthusiast from India*
 
+<img src="https://komarev.com/ghpvc/?username=sujnan453&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
 
 ### 🌐 About Me
 
-I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas into engaging products that balance aesthetics and usability.
+I'm a creative and detail-oriented developer focused on building modern, user-friendly digital experiences. I enjoy designing clean interfaces, crafting seamless interactions, and turning ideas in[...]
 
 ### 🌱 Currently Learning
 
